@@ -22,6 +22,6 @@ make
 
 ## Thanks
 
-- GaryOderNichts for the IOSU patches
-- Quarky Format patch
-- shinyquagsire23 for defuse, minute and stroopwafel
+- [GaryOrderNichts](https://github.com/GaryOderNichts) for the IOSU patch to keep IOSU from crashing
+- [Ash](https://github.com/ashquarky) for the IOSU patch to enable format
+- [Lazr1026](https://github.com/Lazr1026) for testing and debugging
